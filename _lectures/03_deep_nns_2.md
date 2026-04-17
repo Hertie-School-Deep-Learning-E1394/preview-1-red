@@ -9,7 +9,7 @@ links:
       name: slides
 ---
 **Required Readings:**
-- Stanford CS229 Lecture Notes (Andrew Ng)
+- [Stanford CS229 Lecture Notes (Andrew Ng)](https://github.com/Hertie-School-Deep-Learning-E1394/content-f2025/blob/main/readings/required/session-03)
 
 **Optional Readings:**
 - Zhang et al. Chapter 4 and 5

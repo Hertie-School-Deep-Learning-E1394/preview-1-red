@@ -9,8 +9,9 @@ links:
       name: slides
 ---
 **Required Readings:**
-- U-Net: Convolutional Networks for Biomedical Image Segmentation
-- SegNet (1512.02325v5)
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://github.com/Hertie-School-Deep-Learning-E1394/content-f2025/blob/main/readings/required/session-05)
+- [SegNet (1512.02325v5)](https://github.com/Hertie-School-Deep-Learning-E1394/content-f2025/blob/main/readings/required/session-05)
+- [Nature supplementary material](https://github.com/Hertie-School-Deep-Learning-E1394/content-f2025/blob/main/readings/required/session-05)
 
 **Optional Readings:**
 - Zhang et al. Chapter 8 and 14

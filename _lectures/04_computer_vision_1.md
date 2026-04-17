@@ -9,8 +9,9 @@ links:
       name: pre-lecture slides
 ---
 **Required Readings:**
-- Finer et al., 2018. Combating deforestation: From satellite to intervention. *Science*.
-- Kerner et al., 2020. Rapid Response Crop Maps in Data Sparse Regions.
+- [Finer et al., 2018. Combating deforestation: From satellite to intervention](https://github.com/Hertie-School-Deep-Learning-E1394/content-f2025/blob/main/readings/required/session-04)
+- [Kerner et al., 2020. Rapid Response Crop Maps in Data Sparse Regions](https://github.com/Hertie-School-Deep-Learning-E1394/content-f2025/blob/main/readings/required/session-04)
 
 **Optional Readings:**
 - Zhang et al. Chapter 7
+- [Optional readings folder](https://github.com/Hertie-School-Deep-Learning-E1394/content-f2025/blob/main/readings/optional/session-04)

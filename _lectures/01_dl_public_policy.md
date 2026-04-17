@@ -9,4 +9,4 @@ links:
       name: pre-lecture slides
 ---
 **Optional Readings:**
-- Chatsiou & Mikhaylov, "Deep Learning for Political Science" in *The SAGE Handbook of Research Methods in Political Science and IR*, 2020.
+- [Chatsiou & Mikhaylov, "Deep Learning for Political Science"](https://github.com/Hertie-School-Deep-Learning-E1394/content-f2025/blob/main/readings/optional/session-01)

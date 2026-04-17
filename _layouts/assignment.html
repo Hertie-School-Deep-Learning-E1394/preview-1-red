@@ -25,6 +25,12 @@ title: page.title
       {% endif %}
     </p>
 
+    {% if page.classroom_link %}
+    <p>
+      <a href="{{ page.classroom_link }}" class="btn" style="display:inline-block; padding:8px 20px; background:#c1002a; color:#fff; text-decoration:none; border-radius:4px; font-weight:bold;">Accept assignment on GitHub Classroom</a>
+    </p>
+    {% endif %}
+
     <div style="color: gray;">
       <h3>Late Policy</h3>
       {% include late_policy.html %}

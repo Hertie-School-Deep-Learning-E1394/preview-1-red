@@ -10,3 +10,8 @@ teaching_assistants:
   - name: "Chiara Fusar Bassini"
     profile_pic: /_images/pp/placeholder.jpg
     webpage: ""
+
+faculty_assistants:
+  - name: "Alex Karras"
+    profile_pic: /_images/pp/placeholder.jpg
+    webpage: ""

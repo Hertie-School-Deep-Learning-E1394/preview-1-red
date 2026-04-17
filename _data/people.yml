@@ -4,6 +4,9 @@ instructors:
     webpage: "https://hertie-school.org/en/who-we-are/profile/person/kaack"
 
 teaching_assistants:
-  - name: "Alex Karras"
+  - name: "Henry Baker"
+    profile_pic: /_images/pp/placeholder.jpg
+    webpage: ""
+  - name: "Chiara Fusar Bassini"
     profile_pic: /_images/pp/placeholder.jpg
     webpage: ""

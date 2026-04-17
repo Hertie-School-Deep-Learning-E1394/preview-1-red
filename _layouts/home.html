@@ -62,5 +62,23 @@ layout: default
                 {% endfor %}
             </div>
         </div>
+
+        {% if site.data.people.faculty_assistants %}
+        <div style="width:100%; float: left; margin-top: 1em;">
+            <div class="profile-pic-gallary ">
+                <h2>Faculty Assistants</h2>
+                {% for fa in site.data.people.faculty_assistants %}
+                <div class="image--cover-container">
+                    <img src="{{fa.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if fa.webpage %}
+                    <p><a href="{{ fa.webpage }}">{{fa.name}}</a></p>
+                    {% else %}
+                    <p>{{fa.name}}</p>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
     </div>
 </div>
